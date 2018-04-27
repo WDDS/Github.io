@@ -1,2 +1,5 @@
 git clone https://github.com/wdds/wdds.github.io
 
+git add --all
+git commit -m "Initial commit"
+git push -u origin master
